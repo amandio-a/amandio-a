@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil! 😁😁
+## Aluno de Engenharia de Software da Instituição de Ensino UniCeub 
 
  <div>
    <a href="https://github.com/amandio-a">
